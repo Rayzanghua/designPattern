@@ -10,7 +10,9 @@ public class Main {
 
 //        System.out.println(getResult(100));
 //        System.out.println(getResult1(3, 2));
+
         int[] arr={1,2,5,2};
+
         System.out.println(findRepeatNumber(arr));
     }
 
